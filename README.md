@@ -7,7 +7,7 @@ I want to revive it my way and also need help from contributors. I'm grateful if
 
 Requires resource files from the original game.
 
-[Roadmap (Note: Completed tasks are removed)]
+Roadmap (Note: Completed tasks are removed)
 
 Campaign mode
 
@@ -64,13 +64,13 @@ Refactoring
 
 Python bindings
 
-Unscheduled(anytime)
+Unscheduled (anytime)
 
 Animations fix
 
 Loading remained ACAH locations
 
-PS3 resources research(ACAH, Infinity)
+PS3 resources research (ACAH, Infinity)
 
 AC6 resources research
 
@@ -78,7 +78,7 @@ AC4 resources research
 
 AC5 resources research
 
-[Mission editor help]
+Mission editor help
 
 Change mode: ctrl+(1-6)
 
@@ -176,7 +176,7 @@ mission_update()
 
 mission_fail()
 
-[How to create custom decals]
+How to create custom decals
 
 Open Horizon loads decals as zip files from the folder decals/
 
@@ -211,7 +211,7 @@ attributes r, g, b: color in range 0-255.
 
 UVMaps reference: uvmaps.zip
 
-[Resources research progress]
+Resources research progress
 
   AC4	AC5	ACZ	AC6	AH(PC)	AH(PS3)	Infinity
 
@@ -233,7 +233,7 @@ Names are given by signature, extension, or made up, like, POC - Plain Old Conta
 Quotes mean unconfirmed assumption
 
 
-[Build instructions]
+Build instructions
 
 #Getting sources 
 
