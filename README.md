@@ -237,7 +237,7 @@ Build instructions
 
 #Getting sources 
 
-git clone --recursive https://github.com/undefined-darkness/open-horizon/
+git clone --recursive https://github.com/ACE-rakugaki/Open-Horizon-Enhanced-Edition/
 
 #Sources update:
 
